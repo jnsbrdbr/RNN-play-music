@@ -1,1 +1,1 @@
-# RNN-play-music
+# RNN-plays-music
